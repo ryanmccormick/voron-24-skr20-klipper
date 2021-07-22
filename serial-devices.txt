@@ -1,0 +1,7 @@
+## X, Y, E Board
+------------
+usb-Klipper_stm32f407xx_330019000D47393437313133-if00
+
+## Z Board
+------------
+usb-Klipper_stm32f407xx_31001B000F47393439303238-if00
