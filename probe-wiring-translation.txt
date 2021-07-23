@@ -1,0 +1,5 @@
+Probe 			=> 	Harness
+----------------------------------
+Brown (+) 		=> 	Yellow
+Blue (-) 		=> 	Blue
+Black (Signal)	=> 	Green
